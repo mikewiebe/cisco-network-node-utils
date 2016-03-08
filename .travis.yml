@@ -9,4 +9,4 @@ rvm:
   - 2.0.0-p648 # specify non-clang version of ruby
 
 script:
- - bundle exec rake
+ - bundle exec rake checkws.sh
